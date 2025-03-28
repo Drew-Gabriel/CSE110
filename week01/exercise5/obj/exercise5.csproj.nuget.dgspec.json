@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\victor\\Desktop\\CSE 110\\week01\\exercise5\\exercise5.csproj": {}
+    "C:\\Users\\victor\\Desktop\\CSE110\\week01\\exercise5\\exercise5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\victor\\Desktop\\CSE 110\\week01\\exercise5\\exercise5.csproj": {
+    "C:\\Users\\victor\\Desktop\\CSE110\\week01\\exercise5\\exercise5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victor\\Desktop\\CSE 110\\week01\\exercise5\\exercise5.csproj",
+        "projectUniqueName": "C:\\Users\\victor\\Desktop\\CSE110\\week01\\exercise5\\exercise5.csproj",
         "projectName": "exercise5",
-        "projectPath": "C:\\Users\\victor\\Desktop\\CSE 110\\week01\\exercise5\\exercise5.csproj",
+        "projectPath": "C:\\Users\\victor\\Desktop\\CSE110\\week01\\exercise5\\exercise5.csproj",
         "packagesPath": "C:\\Users\\victor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victor\\Desktop\\CSE 110\\week01\\exercise5\\obj\\",
+        "outputPath": "C:\\Users\\victor\\Desktop\\CSE110\\week01\\exercise5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\victor\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\victor\\Desktop\\CSE 110\\CSE 110.csproj": {}
+    "C:\\Users\\victor\\Desktop\\CSE110\\CSE 110.csproj": {}
   },
   "projects": {
-    "C:\\Users\\victor\\Desktop\\CSE 110\\CSE 110.csproj": {
+    "C:\\Users\\victor\\Desktop\\CSE110\\CSE 110.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\victor\\Desktop\\CSE 110\\CSE 110.csproj",
+        "projectUniqueName": "C:\\Users\\victor\\Desktop\\CSE110\\CSE 110.csproj",
         "projectName": "CSE 110",
-        "projectPath": "C:\\Users\\victor\\Desktop\\CSE 110\\CSE 110.csproj",
+        "projectPath": "C:\\Users\\victor\\Desktop\\CSE110\\CSE 110.csproj",
         "packagesPath": "C:\\Users\\victor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\victor\\Desktop\\CSE 110\\obj\\",
+        "outputPath": "C:\\Users\\victor\\Desktop\\CSE110\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\victor\\AppData\\Roaming\\NuGet\\NuGet.Config",
